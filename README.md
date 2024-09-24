@@ -9,4 +9,5 @@
 | The standard | The standard | N/A |  2024-02-15 |
 | Curves | Curves | N/A |  2024-02-7 | 
 | Revert Lend | Revert Lend | N/A |  N/A |
-| Ondo Finance | Ondo Finance | N/A |  N/A |
+|Fjord| Fjord Token Staking | N/A |  N/A |
+|Tadle| Tadle | N/A |  N/A |
