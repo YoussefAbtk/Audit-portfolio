@@ -1,6 +1,6 @@
 # 0xPhantom audits
 
-## Reports list
+## Competitive audits
 
 | Project | Audit Name | MD Report | Release Date (YYYY-MM-DD)                                                                                                                            
 |---|---|---|---|
