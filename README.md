@@ -9,4 +9,4 @@
 | Curves | Curves | N/A |  2024-02-7 | 
 | Revert Lend | Revert Lend | N/A |  N/A |
 |Fjord| Fjord Token Staking | https://github.com/YoussefAbtk/Fjord-Token-submission |  N/A |
-|Tadle| Tadle | N/A |  N/A |
+|Tadle| Tadle | https://github.com/YoussefAbtk/Tadle-submission |  N/A |
