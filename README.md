@@ -2,7 +2,7 @@
 
 ## Competitive audits
 
-| Project | Audit Name | Findings | Release Date (YYYY-MM-DD)                                                                                                                            
+| Project | Audit Name | Findings | Audit Platform                                                                                                                            
 |---|---|---|---|
 | Ethereum credit Guild | Ethereum Credit Guild Contest | N/A |  2024-01-29 |
 | The standard | The standard | N/A |  2024-02-15 |
